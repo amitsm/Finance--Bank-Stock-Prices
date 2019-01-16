@@ -1,2 +1,2 @@
 # Finance--Bank-Stock-Prices
-## Data  We need to get data using pandas datareader. We will get stock information for the following banks: *  Bank of America * CitiGroup * Goldman Sachs * JPMorgan Chase * Morgan Stanley * Wells Fargo  ** Figure out how to get the stock data from Jan 1st 2014 to Jan 1st 2018 for each of these banks. Set each bank to be a separate dataframe, with the variable name for that bank being its ticker symbol. 
+#Study Bank Stock prices from 2014 to 2018#
